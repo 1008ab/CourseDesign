@@ -33,8 +33,8 @@ public class ToolsClass {
     public static ArrayList<Prize> initPrize(){
         ArrayList<Prize>prList=new ArrayList<>();
         prList.add(new Prize("华为Mate50","一等奖",1));
-        prList.add(new Prize("华为运动手表","二等奖",3));
-        prList.add(new Prize("充电宝","三等奖",5));
+        prList.add(new Prize("华为运动手表","二等奖",2));
+        prList.add(new Prize("充电宝","三等奖",3));
         return prList;
     }
 
